@@ -12,5 +12,3 @@ This repository contains my Machine Learning mini projects.
 - Random Forest Regressor
 - Model evaluation using MAE, MSE and R²
 - Feature importance
-
-More projects will be added soon.
